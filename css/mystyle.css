@@ -1,0 +1,12 @@
+body{
+    background:linear-gradient(to right,#ffdde1,#ee9ca7);
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+.word_space{
+    word-spacing: 20px;
+}
+.t_indent{
+    text-indent: 50px;
+
+}
